@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DVCS_Website", "DVCS_Websit
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChinookDatabaseClassLibraryDotNet", "ChinookDatabaseClassLibraryDotNet\ChinookDatabaseClassLibraryDotNet.csproj", "{16DE3435-30D6-4DF3-B2EB-5319E910E732}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SystemClassLibraryDotNet", "SystemClassLibraryDotNet\SystemClassLibraryDotNet.csproj", "{4DCF5CFE-17EF-41E6-ACAE-65B4180995A1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{16DE3435-30D6-4DF3-B2EB-5319E910E732}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{16DE3435-30D6-4DF3-B2EB-5319E910E732}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{16DE3435-30D6-4DF3-B2EB-5319E910E732}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4DCF5CFE-17EF-41E6-ACAE-65B4180995A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DCF5CFE-17EF-41E6-ACAE-65B4180995A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DCF5CFE-17EF-41E6-ACAE-65B4180995A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DCF5CFE-17EF-41E6-ACAE-65B4180995A1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

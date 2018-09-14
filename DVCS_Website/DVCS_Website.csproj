@@ -421,6 +421,16 @@
       <DependentUpon>Web.config</DependentUpon>
     </None>
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\ChinookDatabaseClassLibraryDotNet\ChinookDatabaseClassLibraryDotNet.csproj">
+      <Project>{16de3435-30d6-4df3-b2eb-5319e910e732}</Project>
+      <Name>ChinookDatabaseClassLibraryDotNet</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SystemClassLibraryDotNet\SystemClassLibraryDotNet.csproj">
+      <Project>{4dcf5cfe-17ef-41e6-acae-65b4180995a1}</Project>
+      <Name>SystemClassLibraryDotNet</Name>
+    </ProjectReference>
+  </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
     <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
