@@ -24,7 +24,7 @@ Len Richter
     * **```1. A code repository that is on your local computer.```**
 
 8.	The remote repository that you synchronize with referred to as:
-    * **```1. upstream```**
+    * **```3.	origin```**
 
 9.	When you make a local copy of a GitHub repository, you are effectively __2__ that repository.
     * **```2.	cloning```**
