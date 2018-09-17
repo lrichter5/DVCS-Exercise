@@ -3,34 +3,34 @@ DMIT2018 Take Home Excercise #2
 Len Richter
 
 1.	Under which menu item is the Show in Explorer option?
-    Repository (B)
+    **Repository (B)**
 
 2.	Under which menu item can you Add or Clone repositories?
-    File (B)
+    **File (B)**
 
 3.	Under which menu item can you open your Command Prompt?
-    Repository (B)
+    **Repository (B)**
 
 4.	List the four views that you can change to under View?
-    Changes (F), History (F), Repository list (A), Branches list (C).
+    **Changes (F), History (F), Repository list (A), Branches list (C).**
 
 5.	List the two items you can edit under Repository → Repository settings ...
-    Remote = Edit Remote Repository Filename & Ignored Files = Edit .gitignore file.
+    **Remote = Edit Remote Repository Filename & Ignored Files = Edit .gitignore file.**
 
 6.	A remote repository is:
-    3.	A code repository that is not on your local computer.
+    **3.	A code repository that is not on your local computer.**
 
 7.	A local repository is:
-    1.) A code repository that is on your local computer.
+    **1.) A code repository that is on your local computer.**
 
 8.	The remote repository that you synchronize with referred to as:
-    1.) upstream
+    **1.) upstream**
 
 9.	When you make a local copy of a GitHub repository, you are effectively __2__ that repository.
-    2.	cloning
+    **2.	cloning**
 
 10.	What is the order of Git tasks that are done when performing a sync in GitHub Desktop?
-    2.	fetch, merge, push
+    **2.	fetch, merge, push**
 
 11.	The git pull command is equivalent to:
     1.	git fetch and then git merge
