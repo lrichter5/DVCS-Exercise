@@ -36,16 +36,16 @@ Len Richter
     ```1.	git fetch and then git merge```
 
 12.	Which command is used to create a git repository?
-    4.	git init
+    ```4.	git init```
 
 13.	Which command is used to stage files for a commit?
-    2.	git add
+    ```2.	git add```
 
 14.	Which of the following best describes what it means to stage files for a commit?
-    2.	Staging files for a commit means to identify files that may be new, modified, or deleted and marking those as being ready to commit.
+    ```2.	Staging files for a commit means to identify files that may be new, modified, or deleted and marking those as being ready to commit.```
 
 15.	Which command saves a snapshot of the changes to files in the repository?
-    1.	git commit -m "Commit message"
+    ```1.	git commit -m "Commit message"```
 
 16.	Which of the following best describes what git commit does?
-    3.	Record a snapshot of the changes that have happened in the repository since the last commit.
+    ```3.	Record a snapshot of the changes that have happened in the repository since the last commit.```
