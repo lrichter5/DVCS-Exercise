@@ -33,7 +33,7 @@ Len Richter
     **2.	fetch, merge, push**
 
 11.	The git pull command is equivalent to:
-    1.	git fetch and then git merge
+    ```1.	git fetch and then git merge```
 
 12.	Which command is used to create a git repository?
     4.	git init
