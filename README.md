@@ -21,10 +21,10 @@ Len Richter
     **3.	A code repository that is not on your local computer.**
 
 7.	A local repository is:
-    **1.) A code repository that is on your local computer.**
+    **1. A code repository that is on your local computer.**
 
 8.	The remote repository that you synchronize with referred to as:
-    **1.) upstream**
+    **1. upstream**
 
 9.	When you make a local copy of a GitHub repository, you are effectively __2__ that repository.
     **2.	cloning**
