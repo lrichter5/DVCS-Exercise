@@ -3,7 +3,7 @@ DMIT2018 Take Home Excercise #2
 Len Richter
 
 1.	Under which menu item is the Show in Explorer option?
-    **```Repository (B)```**
+    * **```Repository (B)```**
 
 2.	Under which menu item can you Add or Clone repositories?
     **```File (B)```**
